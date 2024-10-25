@@ -36,8 +36,8 @@ cd paymenter-install
 Make the script executable and run it with sudo:
 
 ```bash
-chmod +x install_paymenter.sh
-sudo ./install_paymenter.sh
+chmod +x install.sh
+sudo ./install.sh
 ```
 
 ### 3. Follow the Prompts

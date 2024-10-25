@@ -27,7 +27,7 @@ This repository provides a fully automated Bash script to install **Paymenter** 
 Clone this repository or manually download the installation script:
 
 ```bash
-git clone https://github.com/yourusername/paymenter-install.git
+git clone https://github.com/billfoo/paymenter-install.git
 cd paymenter-install
 ```
 
